@@ -29,7 +29,7 @@ I am a passionate **Full Stack Developer** residing in New Delhi, India, with ov
 </a>
 
 <a href="https://www.instagram.com/rakesh_budhlakoti">
-<img align="left" alt="Rakesh Budhlakoti | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intagram.svg" />
+<img align="left" alt="Rakesh Budhlakoti | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <a href="https://www.facebook.com/budhlakoti">
@@ -37,7 +37,7 @@ I am a passionate **Full Stack Developer** residing in New Delhi, India, with ov
 </a>
 
 <a href="#">
-<img align="left" alt="Rakesh Budhlakoti Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />
+<img align="left" alt="Rakesh Budhlakoti Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <br>
 
