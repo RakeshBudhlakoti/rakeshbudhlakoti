@@ -100,7 +100,7 @@ const bio = {
       databases: ['PostgreSQL','MySQL','MongoDB'],
       misc: ['Firebase', 'Payment Gateways'],
    },
-   currentFocus: 'Fuul Stack Development',
+   currentFocus: 'Full Stack Development',
 };
 ```
 
