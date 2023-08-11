@@ -25,9 +25,9 @@ I am a passionate **Full Stack Developer** residing in New Delhi, India, with ov
 
 🔗 Grab a link! Let's talk.
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/RakeshBudhlakoti)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.facebook.com/budhlakoti)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-budhlakoti)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=flat-plastic&logo=github&logoColor=white)](https://github.com/RakeshBudhlakoti)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&style=flat-plastic&logo=twitter&logoColor=white)](https://www.facebook.com/budhlakoti)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-budhlakoti)
 
 ## 💻 Things I code with
 
@@ -42,8 +42,8 @@ I am a passionate **Full Stack Developer** residing in New Delhi, India, with ov
 
 ### 🧰 Frameworks & Libraries
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-plastic&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-plastic&logo=redux&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-plastic&logo=express&logoColor=white)
 ![Material%20Design](https://img.shields.io/badge/-Material%20Design-757575?style=flat-plastic&logo=materialdesign&logoColor=white)
 ![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-plastic&logo=tailwindcss&logoColor=white)
@@ -51,7 +51,7 @@ I am a passionate **Full Stack Developer** residing in New Delhi, India, with ov
 ![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-plastic&logo=githubactions&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-plastic&logo=chartdotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-plastic&logo=JSON%20web%20tokens&logoColor=white)
 
 ### ☁️🗄️ Cloud hosting & Database
 
