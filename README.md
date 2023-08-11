@@ -23,8 +23,6 @@ I am a passionate **Full Stack Developer** residing in New Delhi, India, with ov
 -  📝 &nbsp; Checkout my [Resume](https://github.com/RakeshBudhlakoti).
 
 
-
-
 🔗 Grab a link! Let's talk.
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/RakeshBudhlakoti)
@@ -35,17 +33,17 @@ I am a passionate **Full Stack Developer** residing in New Delhi, India, with ov
 
 ### 👨‍💻 Languages
 
-
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-plastic&logo=json&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-plastic&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-plastic&logo=nodedotjs&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-plastic&logo=json&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-plastic&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-plastic&logo=php&logoColor=white)
 
 ### 🧰 Frameworks & Libraries
 
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-plastic&logo=express&logoColor=white)
 ![Material%20Design](https://img.shields.io/badge/-Material%20Design-757575?style=flat-plastic&logo=materialdesign&logoColor=white)
 ![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-plastic&logo=tailwindcss&logoColor=white)
@@ -53,6 +51,7 @@ I am a passionate **Full Stack Developer** residing in New Delhi, India, with ov
 ![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-plastic&logo=githubactions&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-plastic&logo=chartdotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### ☁️🗄️ Cloud hosting & Database
 
