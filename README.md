@@ -9,7 +9,7 @@ I am a passionate **Full Stack Developer** residing in New Delhi, India, with ov
 
 ---
 
-### :blush: Talking about Personal Stuffs:
+### :blush: Talking about Personal Stuff:
 
 <img align="right" height="250" width="400" alt="Rakesh Budhlakoti" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
 
