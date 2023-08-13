@@ -13,14 +13,16 @@ I am a passionate **Full Stack Developer** residing in New Delhi, India, with ov
 
 <img align="right" height="250" width="400" alt="Rakesh Budhlakoti" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
 
--  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
--  📰 &nbsp; Reading tech blogs whenever possible.
--  🍕 &nbsp; Travelling, meetups & tech events.
--  🚀 &nbsp; I’m currently learning Full Stack Web Development.
--  :computer: &nbsp; Most written code line `console.log("hello world");`
--  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RakeshBudhlakoti).
--  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
--  📝 &nbsp; Checkout my [Resume](https://github.com/RakeshBudhlakoti).
+-  💻 &nbsp;Tech Adventurer: I explore new technologies and create exciting projects.
+-  📰 &nbsp;Forever Learning: I stay updated with the latest tech trends.
+-  🍕 &nbsp;Explorer of Places: I love travel, meetups, and tech excitement.
+-  🚀 &nbsp;On a Full Stack Journey: I'm mastering both front-end and back-end magic.
+-  💻 &nbsp;Greetings, Code World: `console.log("hello world");`
+-  👨🏻‍💻 &nbsp;GitHub Display: You can see my coding progress on [Github](https://github.com/RakeshBudhlakoti).
+-  👾 &nbsp;Fun with JavaScript: Did you know? Equal is not always equal.
+-  📝 &nbsp;Take a Look at My [Resume](https://github.com/RakeshBudhlakoti): Discover my skills and experiences.
+-  🌟 &nbsp;Let's Connect and Create: I enjoy sharing ideas and coding together.
+
 
 
 🔗 Grab a link! Let's talk.
