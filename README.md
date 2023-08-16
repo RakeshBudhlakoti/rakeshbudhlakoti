@@ -6,7 +6,6 @@
 
 I am a passionate **Full Stack Developer** residing in New Delhi, India, with over 9 years of experience in web development. I have a strong affinity for technology, coding, and problem-solving. My keen interest lies in conceptualizing and crafting web modules and functionalities, constantly seeking fresh and innovative ideas. Contributing to the tech community by sharing my expertise brings me immense joy. During my leisure moments, I indulge in reading tech articles and engaging in a game of badminton.
 
-
 ---
 
 ### :blush: Talking about Personal Stuff:
