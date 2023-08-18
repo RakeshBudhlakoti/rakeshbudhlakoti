@@ -120,7 +120,5 @@ const bio = {
 	⬇ Check my pinned projects below and leave a ⭐️ ⬇
 </h3>
 
-
-
   
   ---
