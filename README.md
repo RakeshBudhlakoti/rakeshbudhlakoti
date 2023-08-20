@@ -95,7 +95,7 @@ const bio = {
    technologies: {
       web: {
          frontEnd: ['ReactJS', 'HTML', 'Bootstrap'],
-         backEnd: ['NodeJS', 'ExpressJS', 'mongoose'],
+         backEnd: ['NodeJS', 'ExpressJS', 'mongoose', 'PHP'],
       },
       databases: ['PostgreSQL','MySQL','MongoDB'],
       misc: ['Firebase', 'Payment Gateways'],
