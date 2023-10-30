@@ -10,7 +10,7 @@ I am a passionate **Full Stack Developer** residing in New Delhi, India, with 9+
 
 ### :blush: Talking about Personal Stuff:
 
-<img align="right" height="250" width="400" alt="Rakesh Budhlakoti" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
+<img align="right" height="250" width="400" alt="Rakesh Budhlakoti" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 -  💻 &nbsp;Tech Adventurer: I explore new technologies and create exciting projects.
 -  📰 &nbsp;Forever Learning: I stay updated with the latest tech trends.
