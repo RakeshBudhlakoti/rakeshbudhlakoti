@@ -104,7 +104,7 @@ const bio = {
 };
 ```
 
-### ☄️ Github Streaks ⚡ Github Stats :
+### ☄️ My Github Streaks ⚡ My Github Stats :
 
 <p align="center">
   <img width="378em" src="https://github-readme-stats.vercel.app/api?username=RakeshBudhlakoti&show_icons=true&locale=en&theme=radical"                alt="RakeshBudhlakoti"/>
