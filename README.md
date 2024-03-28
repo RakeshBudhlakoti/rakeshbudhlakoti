@@ -108,13 +108,12 @@ const bio = {
 
 <p align="center">
   <img width="378em" src="https://github-readme-stats.vercel.app/api?username=RakeshBudhlakoti&show_icons=true&locale=en&theme=radical"                alt="RakeshBudhlakoti"/>
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshBudhlakoti&theme=radical" alt="RakeshBudhlakoti" />
+<img width="400em" src="https://streak-stats.demolab.com?user=RakeshBudhlakoti&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center"> 
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshBudhlakoti&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
 </p>
-
 <br/>
 <h3 align="center">
 	⬇ Check my pinned projects below and leave a ⭐️ ⬇
